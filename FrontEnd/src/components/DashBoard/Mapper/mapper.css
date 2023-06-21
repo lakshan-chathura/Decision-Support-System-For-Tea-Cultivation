@@ -1,0 +1,30 @@
+body{
+    margin: 0px;
+    height: 100vh;
+    width: 100vw;
+}
+
+#root{
+  height: 100%;
+}
+
+.map{
+  height: 100%;
+}
+
+.selectionPane{
+  z-index: 400;
+  position: absolute;
+  top: 7%;
+  right: 1%;
+}
+
+.ndviLayerSelection{
+  padding: 10px;
+  background-color: rgba(255,255,255,0.5);
+  position: absolute;
+  top: 12%;
+  z-index: 400;
+  right: 1%;
+  border: 1px black solid
+}

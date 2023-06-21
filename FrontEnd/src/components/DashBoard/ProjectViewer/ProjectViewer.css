@@ -1,0 +1,13 @@
+.ProjectViewerFrame{
+  background-color: rgba(255, 255, 255, 0.8);
+  margin: auto;
+  top: 5%;
+  padding: 15px;
+  height:80%;
+}
+
+th,td,th[scope="row"]{
+  font-size: 28px;
+  vertical-align: middle !important;
+  text-align: center;
+}

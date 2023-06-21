@@ -1,0 +1,12 @@
+.col-md-2-custom{
+  padding-left: 0px !important;
+  padding-right: 0px !important;
+}
+
+.cardHolder{
+  background-color:rgba(255,255,255,0.5);
+  padding:10px;
+  overflow-x:scroll;
+  height:100%;
+  text-align:center;
+}

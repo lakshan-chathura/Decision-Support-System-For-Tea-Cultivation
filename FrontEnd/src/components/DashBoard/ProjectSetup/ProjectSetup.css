@@ -1,0 +1,42 @@
+.projectInputForm{
+  padding:10px;
+  border:black solid 1px;
+  font-size: 28px !important;
+}
+
+.progressBar-custom{
+  margin-top:10px;
+  padding:0px;
+  height: 40px;
+}
+
+.setupBody{
+  padding: 15px 30px 15px 30px;
+  background-color: rgba(255, 255, 255, 0.5);
+  margin: auto;
+  top:15%;
+  border:4px black solid;
+  border-radius: 1%;
+}
+
+.form-control-custom,
+.input-group-text-custom,
+.custom-file-input-custom,
+.custom-file-label,
+.btn-custom,
+.progress-custom,
+label,
+.alert-danger-custom,
+.alert-success-custom,
+.p-custom,
+.label-custom,
+.btn-secondary-custom{
+  font-size: 28px !important;
+}
+
+.card-header-custom,
+.card-title-custom,
+.card-text-custom,
+.list-group-item-custom{
+  font-size: 24px !important;
+}

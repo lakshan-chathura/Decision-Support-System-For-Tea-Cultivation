@@ -1,0 +1,9 @@
+.errorPageBackground{
+    /* background-image: url('2417237.jpg'); */
+    /* background-repeat: no-repeat;
+    background-size: cover; */
+    background-color: #FEC200;
+    width: 100%;
+    height: 100%;
+    position: fixed;
+}
